@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../Messagelist.tsx", "../ChatApp.tsx"  ]
 }
